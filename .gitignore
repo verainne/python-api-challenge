@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # API Keys
-api_keys.txt
+api_keys.py
